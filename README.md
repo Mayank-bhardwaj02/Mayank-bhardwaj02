@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mayank Bhardwaj</h1>
 
-I'm a Data Science Enthusiast with a deep passion for Artificial Intelligence, Machine Learning, and Deep Learning. My expertise extends to Data Analysis and Natural Language Processing (NLP), with a knack for solving complex problems using Python and its powerful libraries. I'm committed to turning data into actionable insights and building intelligent systems that can make our lives better.
+I'm a Data Science Enthusiast with a deep passion for Artificial Intelligence, Machine Learning, and Deep Learning. My expertise extends to Generative AI, Computer vision and Natural Language Processing (NLP), with a knack for solving complex problems using Python and its powerful libraries. I'm committed to turning data into actionable insights and building intelligent systems that can make our lives better.
 
 ## 🚀 Skills & Expertise 
 
@@ -8,9 +8,13 @@ I'm a Data Science Enthusiast with a deep passion for Artificial Intelligence, M
 
 - **Machine Learning**: Proficient in supervised and unsupervised learning, skilled in algorithms like Decision Trees, SVMs, Neural Networks, and ensemble methods. 🤖
 
-- **Deep Learning**: Hands-on experience with ANNs, CNNs, and RNNs, using libraries like TensorFlow and Keras. 🧠
+- **Deep Learning**: Hands-on experience with ANNs, CNNs, and RNNs, using libraries like TensorFlow , Keras and Pytorch. 🧠
 
-- **Natural Language Processing**: Extensive work in text analytics and sentiment analysis 📝
+- **Natural Language Processing** 📝
+
+- **Computer Vision** 👁️
+
+- **Generative AI** 🤖
 
 - **SQL Expertise**: Solid background in querying, database manipulation, and stored procedures. 🛠
 
